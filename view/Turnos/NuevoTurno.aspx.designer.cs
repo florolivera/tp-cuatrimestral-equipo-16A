@@ -7,11 +7,11 @@
 // </generado automáticamente>
 //------------------------------------------------------------------------------
 
-namespace view
+namespace view.Turnos
 {
 
 
-    public partial class Turnos
+    public partial class NuevoTurno
     {
 
         /// <summary>

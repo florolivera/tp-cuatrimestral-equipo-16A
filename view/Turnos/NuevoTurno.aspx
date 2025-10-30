@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Turnos.aspx.cs" Inherits="view.Turnos" %>
+﻿<%@ Page Title="Nuevo turno" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="NuevoTurno.aspx.cs" Inherits="view.Turnos.NuevoTurno" %>
 <asp:Content ContentPlaceHolderID="TitleContent" runat="server">Nuevo turno</asp:Content>
 <asp:Content ContentPlaceHolderID="PageHeader" runat="server">Nuevo turno</asp:Content>
 <asp:Content ContentPlaceHolderID="MainContent" runat="server">
