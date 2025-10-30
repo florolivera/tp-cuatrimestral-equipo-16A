@@ -39,7 +39,7 @@
                         </AnonymousTemplate>
 
                         <RoleGroups>
-                            <%--<asp:RoleGroup Roles="Admin">
+                            <asp:RoleGroup Roles="Admin">
                                 <ContentTemplate>
                                     <ul class="navbar-nav me-3">
                                         <li class="nav-item dropdown">
@@ -63,9 +63,9 @@
                                             CssClass="btn btn-outline-light btn-sm" />
                                     </div>
                                 </ContentTemplate>
-                            </asp:RoleGroup>--%>
+                            </asp:RoleGroup>
 
-                            <%--<asp:RoleGroup Roles="Recepcion">
+                            <asp:RoleGroup Roles="Recepcion">
                                 <ContentTemplate>
                                     <ul class="navbar-nav me-3">
                                         <li class="nav-item"><a runat="server" class="nav-link" href="~/Pacientes/Pacientes.aspx">Pacientes</a></li>
@@ -82,9 +82,9 @@
                                             CssClass="btn btn-outline-light btn-sm" />
                                     </div>
                                 </ContentTemplate>
-                            </asp:RoleGroup>--%>
+                            </asp:RoleGroup>
 
-                            <%--<asp:RoleGroup Roles="Medico">
+                            <asp:RoleGroup Roles="Medico">
                                 <ContentTemplate>
                                     <ul class="navbar-nav me-3">
                                         <li class="nav-item"><a runat="server" class="nav-link" href="~/Turnos/MisTurnos.aspx">Mis turnos</a></li>
@@ -99,7 +99,7 @@
                                             CssClass="btn btn-outline-light btn-sm" />
                                     </div>
                                 </ContentTemplate>
-                            </asp:RoleGroup>--%>
+                            </asp:RoleGroup>
                         </RoleGroups>
                     </asp:LoginView>
                 </div>
