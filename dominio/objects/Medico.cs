@@ -9,16 +9,16 @@ namespace dominio.objects
     public class Medico
     {
         public int MedicoId { get; set; }
-        public string Matricula { get; set; } = string.Empty;
-        public string Nombre { get; set; } = string.Empty;
-        public string Apellido { get; set; } = string.Empty;
-        public string Email { get; set; } = string.Empty;
-        public string Telefono { get; set; } = string.Empty;
+        public string Matricula { get; set; }
+        public string Nombre { get; set; }
+        public string Apellido { get; set; }
+        public string Email { get; set; } 
+        public string Telefono { get; set; } 
         public bool IsActive { get; set; } = true;
         public System.DateTime CreatedAt { get; set; }
 
         public string NombreCompleto => $"{Nombre} {Apellido}";
 
-        public System.Collections.Generic.List<Especialidad> Especialidades { get; set; } = new();
+        public System.Collections.Generic.List<Especialidad> Especialidades { get; set; }
     }
 }
