@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\flore\\OneDrive\\Escritorio\\DEVELOPER\\tp-cuatrimestral-equipo-16A\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{755C372D-DA60-4791-BABE-3639281D553C}|view\\view.csproj|c:\\users\\flore\\onedrive\\escritorio\\developer\\tp-cuatrimestral-equipo-16a\\view\\admin\\especialidades.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{755C372D-DA60-4791-BABE-3639281D553C}|view\\view.csproj|solutionrelative:view\\admin\\especialidades.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{755C372D-DA60-4791-BABE-3639281D553C}|view\\view.csproj|c:\\users\\flore\\onedrive\\escritorio\\developer\\tp-cuatrimestral-equipo-16a\\view\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{755C372D-DA60-4791-BABE-3639281D553C}|view\\view.csproj|solutionrelative:view\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755C372D-DA60-4791-BABE-3639281D553C}|view\\view.csproj|c:\\users\\flore\\onedrive\\escritorio\\developer\\tp-cuatrimestral-equipo-16a\\view\\turnos\\misturnos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{755C372D-DA60-4791-BABE-3639281D553C}|view\\view.csproj|solutionrelative:view\\turnos\\misturnos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755C372D-DA60-4791-BABE-3639281D553C}|view\\view.csproj|c:\\users\\flore\\onedrive\\escritorio\\developer\\tp-cuatrimestral-equipo-16a\\view\\pacientes\\pacientes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{755C372D-DA60-4791-BABE-3639281D553C}|view\\view.csproj|solutionrelative:view\\pacientes\\pacientes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755C372D-DA60-4791-BABE-3639281D553C}|view\\view.csproj|c:\\users\\flore\\onedrive\\escritorio\\developer\\tp-cuatrimestral-equipo-16a\\view\\medicos\\medicos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{755C372D-DA60-4791-BABE-3639281D553C}|view\\view.csproj|solutionrelative:view\\medicos\\medicos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755C372D-DA60-4791-BABE-3639281D553C}|view\\view.csproj|c:\\users\\flore\\onedrive\\escritorio\\developer\\tp-cuatrimestral-equipo-16a\\view\\admin\\especialidades.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{755C372D-DA60-4791-BABE-3639281D553C}|view\\view.csproj|solutionrelative:view\\admin\\especialidades.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{755C372D-DA60-4791-BABE-3639281D553C}|view\\view.csproj|c:\\users\\flore\\onedrive\\escritorio\\developer\\tp-cuatrimestral-equipo-16a\\view\\admin\\turnostrabajo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
@@ -86,50 +98,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Reportes.aspx",
-              "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\DEVELOPER\\tp-cuatrimestral-equipo-16A\\view\\Admin\\Reportes.aspx",
-              "RelativeDocumentMoniker": "view\\Admin\\Reportes.aspx",
-              "ToolTip": "C:\\Users\\flore\\OneDrive\\Escritorio\\DEVELOPER\\tp-cuatrimestral-equipo-16A\\view\\Admin\\Reportes.aspx",
-              "RelativeToolTip": "view\\Admin\\Reportes.aspx",
+              "DocumentIndex": 1,
+              "Title": "MisTurnos.aspx",
+              "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\DEVELOPER\\tp-cuatrimestral-equipo-16A\\view\\Turnos\\MisTurnos.aspx",
+              "RelativeDocumentMoniker": "view\\Turnos\\MisTurnos.aspx",
+              "ToolTip": "C:\\Users\\flore\\OneDrive\\Escritorio\\DEVELOPER\\tp-cuatrimestral-equipo-16A\\view\\Turnos\\MisTurnos.aspx",
+              "RelativeToolTip": "view\\Turnos\\MisTurnos.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-10-30T05:56:41.544Z",
+              "WhenOpened": "2025-10-30T06:00:10.139Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TurnosTrabajo.aspx",
-              "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\DEVELOPER\\tp-cuatrimestral-equipo-16A\\view\\Admin\\TurnosTrabajo.aspx",
-              "RelativeDocumentMoniker": "view\\Admin\\TurnosTrabajo.aspx",
-              "ToolTip": "C:\\Users\\flore\\OneDrive\\Escritorio\\DEVELOPER\\tp-cuatrimestral-equipo-16A\\view\\Admin\\TurnosTrabajo.aspx",
-              "RelativeToolTip": "view\\Admin\\TurnosTrabajo.aspx",
+              "Title": "Pacientes.aspx",
+              "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\DEVELOPER\\tp-cuatrimestral-equipo-16A\\view\\Pacientes\\Pacientes.aspx",
+              "RelativeDocumentMoniker": "view\\Pacientes\\Pacientes.aspx",
+              "ToolTip": "C:\\Users\\flore\\OneDrive\\Escritorio\\DEVELOPER\\tp-cuatrimestral-equipo-16A\\view\\Pacientes\\Pacientes.aspx",
+              "RelativeToolTip": "view\\Pacientes\\Pacientes.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-10-30T05:56:28.01Z",
+              "WhenOpened": "2025-10-30T05:59:39.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Medicos.aspx",
+              "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\DEVELOPER\\tp-cuatrimestral-equipo-16A\\view\\Medicos\\Medicos.aspx",
+              "RelativeDocumentMoniker": "view\\Medicos\\Medicos.aspx",
+              "ToolTip": "C:\\Users\\flore\\OneDrive\\Escritorio\\DEVELOPER\\tp-cuatrimestral-equipo-16A\\view\\Medicos\\Medicos.aspx",
+              "RelativeToolTip": "view\\Medicos\\Medicos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-30T05:59:10.968Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Medicos.aspx",
-              "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\DEVELOPER\\tp-cuatrimestral-equipo-16A\\view\\Admin\\Medicos.aspx",
-              "RelativeDocumentMoniker": "view\\Admin\\Medicos.aspx",
-              "ToolTip": "C:\\Users\\flore\\OneDrive\\Escritorio\\DEVELOPER\\tp-cuatrimestral-equipo-16A\\view\\Admin\\Medicos.aspx",
-              "RelativeToolTip": "view\\Admin\\Medicos.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-10-30T05:56:07.01Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Especialidades.aspx",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\DEVELOPER\\tp-cuatrimestral-equipo-16A\\view\\Admin\\Especialidades.aspx",
               "RelativeDocumentMoniker": "view\\Admin\\Especialidades.aspx",
@@ -142,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Usuarios.aspx",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\DEVELOPER\\tp-cuatrimestral-equipo-16A\\view\\Admin\\Usuarios.aspx",
               "RelativeDocumentMoniker": "view\\Admin\\Usuarios.aspx",
@@ -155,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Site.Mobile.Master",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\DEVELOPER\\tp-cuatrimestral-equipo-16A\\view\\Site.Mobile.Master",
               "RelativeDocumentMoniker": "view\\Site.Mobile.Master",
@@ -168,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Login.aspx.cs",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\DEVELOPER\\tp-cuatrimestral-equipo-16A\\view\\Account\\Login.aspx.cs",
               "RelativeDocumentMoniker": "view\\Account\\Login.aspx.cs",
@@ -181,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Site.Master",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\DEVELOPER\\tp-cuatrimestral-equipo-16A\\view\\Site.Master",
               "RelativeDocumentMoniker": "view\\Site.Master",
@@ -194,7 +206,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
+              "Title": "Medicos.aspx",
+              "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\DEVELOPER\\tp-cuatrimestral-equipo-16A\\view\\Admin\\Medicos.aspx",
+              "RelativeDocumentMoniker": "view\\Admin\\Medicos.aspx",
+              "ToolTip": "C:\\Users\\flore\\OneDrive\\Escritorio\\DEVELOPER\\tp-cuatrimestral-equipo-16A\\view\\Admin\\Medicos.aspx",
+              "RelativeToolTip": "view\\Admin\\Medicos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-30T05:56:07.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TurnosTrabajo.aspx",
+              "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\DEVELOPER\\tp-cuatrimestral-equipo-16A\\view\\Admin\\TurnosTrabajo.aspx",
+              "RelativeDocumentMoniker": "view\\Admin\\TurnosTrabajo.aspx",
+              "ToolTip": "C:\\Users\\flore\\OneDrive\\Escritorio\\DEVELOPER\\tp-cuatrimestral-equipo-16A\\view\\Admin\\TurnosTrabajo.aspx",
+              "RelativeToolTip": "view\\Admin\\TurnosTrabajo.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-30T05:56:28.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Reportes.aspx",
+              "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\DEVELOPER\\tp-cuatrimestral-equipo-16A\\view\\Admin\\Reportes.aspx",
+              "RelativeDocumentMoniker": "view\\Admin\\Reportes.aspx",
+              "ToolTip": "C:\\Users\\flore\\OneDrive\\Escritorio\\DEVELOPER\\tp-cuatrimestral-equipo-16A\\view\\Admin\\Reportes.aspx",
+              "RelativeToolTip": "view\\Admin\\Reportes.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-30T05:56:41.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Register.aspx.cs",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\DEVELOPER\\tp-cuatrimestral-equipo-16A\\view\\Account\\Register.aspx.cs",
               "RelativeDocumentMoniker": "view\\Account\\Register.aspx.cs",
@@ -207,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Login.aspx",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\DEVELOPER\\tp-cuatrimestral-equipo-16A\\view\\Account\\Login.aspx",
               "RelativeDocumentMoniker": "view\\Account\\Login.aspx",
@@ -220,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Register.aspx",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\DEVELOPER\\tp-cuatrimestral-equipo-16A\\view\\Account\\Register.aspx",
               "RelativeDocumentMoniker": "view\\Account\\Register.aspx",
@@ -233,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "About.aspx",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\DEVELOPER\\tp-cuatrimestral-equipo-16A\\view\\About.aspx",
               "RelativeDocumentMoniker": "view\\About.aspx",
@@ -246,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Default.aspx.cs",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\DEVELOPER\\tp-cuatrimestral-equipo-16A\\view\\Default.aspx.cs",
               "RelativeDocumentMoniker": "view\\Default.aspx.cs",
@@ -259,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Default.aspx",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\DEVELOPER\\tp-cuatrimestral-equipo-16A\\view\\Default.aspx",
               "RelativeDocumentMoniker": "view\\Default.aspx",
@@ -272,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "NuevoTurno.aspx",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\DEVELOPER\\tp-cuatrimestral-equipo-16A\\view\\Turnos\\NuevoTurno.aspx",
               "RelativeDocumentMoniker": "view\\Turnos\\NuevoTurno.aspx",
@@ -285,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "Site.Master.cs",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\DEVELOPER\\tp-cuatrimestral-equipo-16A\\view\\Site.Master.cs",
               "RelativeDocumentMoniker": "view\\Site.Master.cs",
@@ -298,7 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "ListadoTurnos.aspx",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\DEVELOPER\\tp-cuatrimestral-equipo-16A\\view\\Turnos\\ListadoTurnos.aspx",
               "RelativeDocumentMoniker": "view\\Turnos\\ListadoTurnos.aspx",
@@ -311,7 +362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "ListadoTurnos.aspx.cs",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\DEVELOPER\\tp-cuatrimestral-equipo-16A\\view\\Turnos\\ListadoTurnos.aspx.cs",
               "RelativeDocumentMoniker": "view\\Turnos\\ListadoTurnos.aspx.cs",
@@ -324,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "NuevoTurno.aspx.cs",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\DEVELOPER\\tp-cuatrimestral-equipo-16A\\view\\Turnos\\NuevoTurno.aspx.cs",
               "RelativeDocumentMoniker": "view\\Turnos\\NuevoTurno.aspx.cs",

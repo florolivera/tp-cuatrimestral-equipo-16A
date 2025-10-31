@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\flore\\OneDrive\\Escritorio\\DEVELOPER\\tp-cuatrimestral-equipo-16A\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{755C372D-DA60-4791-BABE-3639281D553C}|view\\view.csproj|c:\\users\\flore\\onedrive\\escritorio\\developer\\tp-cuatrimestral-equipo-16a\\view\\admin\\especialidades.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{755C372D-DA60-4791-BABE-3639281D553C}|view\\view.csproj|solutionrelative:view\\admin\\especialidades.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{755C372D-DA60-4791-BABE-3639281D553C}|view\\view.csproj|c:\\users\\flore\\onedrive\\escritorio\\developer\\tp-cuatrimestral-equipo-16a\\view\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{755C372D-DA60-4791-BABE-3639281D553C}|view\\view.csproj|solutionrelative:view\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{755C372D-DA60-4791-BABE-3639281D553C}|view\\view.csproj|c:\\users\\flore\\onedrive\\escritorio\\developer\\tp-cuatrimestral-equipo-16a\\view\\admin\\medicos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{755C372D-DA60-4791-BABE-3639281D553C}|view\\view.csproj|solutionrelative:view\\admin\\medicos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{755C372D-DA60-4791-BABE-3639281D553C}|view\\view.csproj|c:\\users\\flore\\onedrive\\escritorio\\developer\\tp-cuatrimestral-equipo-16a\\view\\admin\\especialidades.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{755C372D-DA60-4791-BABE-3639281D553C}|view\\view.csproj|solutionrelative:view\\admin\\especialidades.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{755C372D-DA60-4791-BABE-3639281D553C}|view\\view.csproj|c:\\users\\flore\\onedrive\\escritorio\\developer\\tp-cuatrimestral-equipo-16a\\view\\admin\\usuarios.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
@@ -86,11 +86,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Reportes.aspx",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\DEVELOPER\\tp-cuatrimestral-equipo-16A\\view\\Admin\\Reportes.aspx",
               "RelativeDocumentMoniker": "view\\Admin\\Reportes.aspx",
@@ -103,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TurnosTrabajo.aspx",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\DEVELOPER\\tp-cuatrimestral-equipo-16A\\view\\Admin\\TurnosTrabajo.aspx",
               "RelativeDocumentMoniker": "view\\Admin\\TurnosTrabajo.aspx",
@@ -116,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Medicos.aspx",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\DEVELOPER\\tp-cuatrimestral-equipo-16A\\view\\Admin\\Medicos.aspx",
               "RelativeDocumentMoniker": "view\\Admin\\Medicos.aspx",
@@ -129,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Especialidades.aspx",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\DEVELOPER\\tp-cuatrimestral-equipo-16A\\view\\Admin\\Especialidades.aspx",
               "RelativeDocumentMoniker": "view\\Admin\\Especialidades.aspx",
@@ -181,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Site.Master",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\DEVELOPER\\tp-cuatrimestral-equipo-16A\\view\\Site.Master",
               "RelativeDocumentMoniker": "view\\Site.Master",

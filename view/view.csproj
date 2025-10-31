@@ -127,6 +127,8 @@
     <Content Include="Default.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
+    <Content Include="Medicos\Medicos.aspx" />
+    <Content Include="Pacientes\Pacientes.aspx" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.esm.js" />
@@ -184,6 +186,7 @@
     <Content Include="Scripts\WebForms\WebUIValidation.js" />
     <Content Include="Site.Master" />
     <Content Include="Turnos\ListadoTurnos.aspx" />
+    <Content Include="Turnos\MisTurnos.aspx" />
     <Content Include="Turnos\NuevoTurno.aspx" />
     <Content Include="ViewSwitcher.ascx" />
     <Content Include="Web.config" />
@@ -259,6 +262,20 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Medicos\Medicos.aspx.cs">
+      <DependentUpon>Medicos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Medicos\Medicos.aspx.designer.cs">
+      <DependentUpon>Medicos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pacientes\Pacientes.aspx.cs">
+      <DependentUpon>Pacientes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pacientes\Pacientes.aspx.designer.cs">
+      <DependentUpon>Pacientes.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Site.Master.cs">
       <DependentUpon>Site.Master</DependentUpon>
@@ -280,6 +297,13 @@
     </Compile>
     <Compile Include="Turnos\ListadoTurnos.aspx.designer.cs">
       <DependentUpon>ListadoTurnos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Turnos\MisTurnos.aspx.cs">
+      <DependentUpon>MisTurnos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Turnos\MisTurnos.aspx.designer.cs">
+      <DependentUpon>MisTurnos.aspx</DependentUpon>
     </Compile>
     <Compile Include="Turnos\NuevoTurno.aspx.cs">
       <DependentUpon>NuevoTurno.aspx</DependentUpon>
