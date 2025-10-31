@@ -72,3 +72,7 @@ C:\Users\flore\OneDrive\Escritorio\DEVELOPER\tp-cuatrimestral-equipo-16A\view\ob
 C:\Users\flore\OneDrive\Escritorio\DEVELOPER\tp-cuatrimestral-equipo-16A\view\obj\Debug\view.csproj.Up2Date
 C:\Users\flore\OneDrive\Escritorio\DEVELOPER\tp-cuatrimestral-equipo-16A\view\obj\Debug\view.dll
 C:\Users\flore\OneDrive\Escritorio\DEVELOPER\tp-cuatrimestral-equipo-16A\view\obj\Debug\view.pdb
+C:\Users\flore\OneDrive\Escritorio\DEVELOPER\tp-cuatrimestral-equipo-16A\view\bin\dominio.dll
+C:\Users\flore\OneDrive\Escritorio\DEVELOPER\tp-cuatrimestral-equipo-16A\view\bin\negocio.dll
+C:\Users\flore\OneDrive\Escritorio\DEVELOPER\tp-cuatrimestral-equipo-16A\view\bin\dominio.pdb
+C:\Users\flore\OneDrive\Escritorio\DEVELOPER\tp-cuatrimestral-equipo-16A\view\bin\negocio.pdb

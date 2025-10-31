@@ -1,4 +1,6 @@
-﻿using System;
+﻿using dominio.objects;
+using negocio;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -11,7 +13,12 @@ namespace view.Turnos
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            PacienteNegocio n = new PacienteNegocio();
+            List<Paciente> lista = n.Listar();
+            ddlPaciente.DataSource = lista;
+            ddlPaciente.DataTextField = "NombreCompleto"; 
+            ddlPaciente.DataValueField = "PacienteId";    
+            ddlPaciente.DataBind();
         }
 
         protected void btnGuardar_Click(object sender, EventArgs e)
